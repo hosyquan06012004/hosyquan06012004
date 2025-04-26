@@ -53,10 +53,10 @@
 <br>
 <div align=center>
   <a href="#" title="quandt">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungquandev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quandt&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
   <a href="#" title="quandt">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=trungquandev&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=quandt&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
   </a>
 </div>
 
@@ -97,9 +97,9 @@
 <p><strong>☕ Đây là một khóa học mà mình đã làm cực kỳ tâm huyết, với phong cách dạy lập trình làm dự án thực tế, chuyên nghiệp. Để các bạn có một hành trang kiến thức vững chắc cho hành trình sự nghiệp làm lập trình viên trong tương lai nhé.</strong></p>
 <p><strong>☕ Vì mỗi lần mở lớp online dạy trực tiếp này mình chỉ nhận số lượng rất ít bạn để đảm bảo chất lượng học, nên là các bạn quan tâm thì cứ thoải mái liên hệ với mình sớm để đăng ký giữ chỗ cho những lớp tiếp theo nha!</strong></p>
 <p>
-  <strong>🔗 Video giới thiệu chi tiết: <a href="https://youtu.be/9M1ZeMip40k?si=AorUOYNnPL5Evr26" target="_blank">Demo & Review toàn bộ khóa Full Stack MERN Advanced | Học lập trình thực tế để đi làm | @qncoder</a></strong>
+  <strong>🔗 Video giới thiệu chi tiết: <a href="https://www.facebook.com/share/v/12JPFDRho5E/" target="_blank">Demo & Review toàn bộ khóa Full Stack MERN Advanced | Học lập trình thực tế để đi làm | @qncoder</a></strong>
   <br><br>
-  <strong>🔗 Bài viết chi tiết trên blog: <a href="https://trungquandev.com/khoa-hoc-lap-trinh-mern-stack-100-du-an-thuc-te-chat-luong" target="_blank">Tự tin làm chủ kỹ năng lập trình Website với combo kiến thức  Nâng Cao đầy đủ từ Front-end cho đến Back-end: ReactJS, Laravel, Angular, .Net, Java, PHP, Python, Mongodb ...vv</a></strong>
+  <strong>🔗 Bài viết chi tiết trên blog: <a href="https://www.facebook.com/share/v/12JPFDRho5E/">Tự tin làm chủ kỹ năng lập trình Website với combo kiến thức  Nâng Cao đầy đủ từ Front-end cho đến Back-end: ReactJS, Laravel, Angular, .Net, Java, PHP, Python, Mongodb ...vv</a></strong>
   <br><br>
   <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/qn.coder.2004" target="_blank">https://www.facebook.com/qn.coder.2004</a></strong>
   <br>
